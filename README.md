@@ -22,8 +22,8 @@ Setup Instructions
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-sentiment-tts.git
-   cd news-sentiment-tts
+   git clone https://github.com/ganeshpatel01/News-Summarization-and-Text-to-Speech-Application
+   cd News-Summarization-and-Text-to-Speech-Application
    ```
 2. Install dependencies:
    ```bash
